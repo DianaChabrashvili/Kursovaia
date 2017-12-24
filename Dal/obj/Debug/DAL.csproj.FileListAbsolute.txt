@@ -6,3 +6,11 @@ C:\4сем\Зорин\курсовая\kurs1\Dal\obj\Debug\Dal.dll
 C:\4сем\Зорин\курсовая\kurs1\Dal\obj\Debug\Dal.pdb
 C:\4сем\Зорин\курсовая\kurs1\Dal\bin\Debug\Contracts.dll
 C:\4сем\Зорин\курсовая\kurs1\Dal\bin\Debug\Contracts.pdb
+C:\Users\user\Source\Repos\Kursovaia\Dal\bin\Debug\Dal.dll
+C:\Users\user\Source\Repos\Kursovaia\Dal\bin\Debug\Dal.pdb
+C:\Users\user\Source\Repos\Kursovaia\Dal\bin\Debug\Contracts.dll
+C:\Users\user\Source\Repos\Kursovaia\Dal\bin\Debug\Contracts.pdb
+C:\Users\user\Source\Repos\Kursovaia\Dal\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\Kursovaia\Dal\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Kursovaia\Dal\obj\Debug\Dal.dll
+C:\Users\user\Source\Repos\Kursovaia\Dal\obj\Debug\Dal.pdb

@@ -9,6 +9,7 @@ using BusinessLogic;
 using Contracts;
 using System.Collections.ObjectModel;
 using System.Windows.Input;
+using System.Windows;
 
 namespace kurs1
 {
@@ -17,27 +18,34 @@ namespace kurs1
 
         public Window2ViewModel()
         {
+           
 
-            if (string.IsNullOrWhiteSpace(kurs1.Properties.Settings.Default.DataConnection2))
+
+                if (string.IsNullOrWhiteSpace(kurs1.Properties.Settings.Default.DataConnection2))
+                {
+                    throw new ArgumentNullException("Data connection not found ");
+                }
+            try
             {
-                throw new ArgumentNullException("Data connection not found ");
+                Environment.CurrentDirectory = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location);
+                Config cfg = new Config();
+                cfg.DataPath = Path.GetFullPath(kurs1.Properties.Settings.Default.DataConnection2);
+                cfg.DataReaderAssembly = Path.GetFullPath(kurs1.Properties.Settings.Default.DALAssembly);
+                cfg.DataReader = Path.GetFullPath(kurs1.Properties.Settings.Default.ReaderType);
+                FileProcessing fp = new FileProcessing(cfg);
+                Items2 = new ObservableCollection<KeyValuePair<int, string>>();
+
+                foreach (var i in fp.Items)
+                {
+                    Items2.Add(new KeyValuePair<int, string>(i.Key, i.Value));
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("NO results found");
             }
 
-            Environment.CurrentDirectory = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location);
-            Config cfg = new Config();
-            cfg.DataPath = Path.GetFullPath(kurs1.Properties.Settings.Default.DataConnection2);
-            cfg.DataReaderAssembly = Path.GetFullPath(kurs1.Properties.Settings.Default.DALAssembly);
-            cfg.DataReader = Path.GetFullPath(kurs1.Properties.Settings.Default.ReaderType);
-            FileProcessing fp = new FileProcessing(cfg);
-            Items2 = new ObservableCollection<KeyValuePair<int, string>>();
-
-            foreach (var i in fp.Items)
-            {
-                Items2.Add(new KeyValuePair<int, string>(i.Key, i.Value));
-            }
         }
-
-
         public ObservableCollection<KeyValuePair<Int32, String>> Items2 { get; set; }
 
     }

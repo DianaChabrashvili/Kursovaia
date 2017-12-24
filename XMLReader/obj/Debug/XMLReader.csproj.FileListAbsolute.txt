@@ -7,3 +7,12 @@ C:\4сем\Зорин\курсовая\kurs1\XMLReader\bin\Debug\Items.xml
 C:\4сем\Зорин\курсовая\kurs1\XMLReader\obj\Debug\XMLReader.csprojResolveAssemblyReference.cache
 C:\4сем\Зорин\курсовая\kurs1\XMLReader\bin\Debug\Contracts.dll
 C:\4сем\Зорин\курсовая\kurs1\XMLReader\bin\Debug\Contracts.pdb
+C:\Users\user\Source\Repos\Kursovaia\XMLReader\bin\Debug\Items.xml
+C:\Users\user\Source\Repos\Kursovaia\XMLReader\bin\Debug\XMLReader.dll
+C:\Users\user\Source\Repos\Kursovaia\XMLReader\bin\Debug\XMLReader.pdb
+C:\Users\user\Source\Repos\Kursovaia\XMLReader\bin\Debug\Contracts.dll
+C:\Users\user\Source\Repos\Kursovaia\XMLReader\bin\Debug\Contracts.pdb
+C:\Users\user\Source\Repos\Kursovaia\XMLReader\obj\Debug\XMLReader.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\Kursovaia\XMLReader\obj\Debug\XMLReader.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Kursovaia\XMLReader\obj\Debug\XMLReader.dll
+C:\Users\user\Source\Repos\Kursovaia\XMLReader\obj\Debug\XMLReader.pdb

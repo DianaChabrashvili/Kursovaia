@@ -25,8 +25,8 @@ namespace XMLReader
                 Dictionary<int, string> values = new Dictionary<int, string>();
                 foreach (var element in doc.Root.Elements())
                 {
-                    values.Add(Int32.Parse(element.Attributes().FirstOrDefault(x=>x.Name=="id").Value),
-                        element.Attributes().FirstOrDefault(x => x.Name == "name").Value);
+                    values.Add(Int32.Parse(element.Attributes().FirstOrDefault(x=>x.Name.Equals("id")).Value),
+                        element.Attributes().FirstOrDefault(x => x.Name.Equals( "name")).Value);
                 }
                 
                 return values;

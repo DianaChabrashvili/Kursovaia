@@ -3,3 +3,8 @@ C:\4сем\Зорин\курсовая\kurs1\Contracts\bin\Debug\Contracts.pdb
 C:\4сем\Зорин\курсовая\kurs1\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
 C:\4сем\Зорин\курсовая\kurs1\Contracts\obj\Debug\Contracts.dll
 C:\4сем\Зорин\курсовая\kurs1\Contracts\obj\Debug\Contracts.pdb
+C:\Users\user\Source\Repos\Kursovaia\Contracts\bin\Debug\Contracts.dll
+C:\Users\user\Source\Repos\Kursovaia\Contracts\bin\Debug\Contracts.pdb
+C:\Users\user\Source\Repos\Kursovaia\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Kursovaia\Contracts\obj\Debug\Contracts.dll
+C:\Users\user\Source\Repos\Kursovaia\Contracts\obj\Debug\Contracts.pdb
