@@ -1,0 +1,8 @@
+C:\4сем\Зорин\курсовая\kurs1\Dal\bin\Debug\Dal.dll
+C:\4сем\Зорин\курсовая\kurs1\Dal\bin\Debug\Dal.pdb
+C:\4сем\Зорин\курсовая\kurs1\Dal\obj\Debug\Dal.csprojResolveAssemblyReference.cache
+C:\4сем\Зорин\курсовая\kurs1\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\4сем\Зорин\курсовая\kurs1\Dal\obj\Debug\Dal.dll
+C:\4сем\Зорин\курсовая\kurs1\Dal\obj\Debug\Dal.pdb
+C:\4сем\Зорин\курсовая\kurs1\Dal\bin\Debug\Contracts.dll
+C:\4сем\Зорин\курсовая\kurs1\Dal\bin\Debug\Contracts.pdb

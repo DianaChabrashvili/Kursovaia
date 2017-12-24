@@ -1,0 +1,9 @@
+C:\4сем\Зорин\курсовая\kurs1\XMLReader\bin\Debug\XMLReader.dll
+C:\4сем\Зорин\курсовая\kurs1\XMLReader\bin\Debug\XMLReader.pdb
+C:\4сем\Зорин\курсовая\kurs1\XMLReader\obj\Debug\XMLReader.csproj.CoreCompileInputs.cache
+C:\4сем\Зорин\курсовая\kurs1\XMLReader\obj\Debug\XMLReader.dll
+C:\4сем\Зорин\курсовая\kurs1\XMLReader\obj\Debug\XMLReader.pdb
+C:\4сем\Зорин\курсовая\kurs1\XMLReader\bin\Debug\Items.xml
+C:\4сем\Зорин\курсовая\kurs1\XMLReader\obj\Debug\XMLReader.csprojResolveAssemblyReference.cache
+C:\4сем\Зорин\курсовая\kurs1\XMLReader\bin\Debug\Contracts.dll
+C:\4сем\Зорин\курсовая\kurs1\XMLReader\bin\Debug\Contracts.pdb

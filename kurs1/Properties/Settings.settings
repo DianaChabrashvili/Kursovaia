@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="kurs1.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DataConnection" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Items.xml</Value>
+    </Setting>
+    <Setting Name="DALAssembly" Type="System.String" Scope="User">
+      <Value Profile="(Default)">XmlReader.dll</Value>
+    </Setting>
+    <Setting Name="ReaderType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">FileReader</Value>
+    </Setting>
+    <Setting Name="DataConnection2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Items2.xml</Value>
+    </Setting>
+    <Setting Name="DataConnection3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Items3.xml</Value>
+    </Setting>
+    <Setting Name="DataConnection4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Items4.xml</Value>
+    </Setting>
+    <Setting Name="DataConnection5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Items5.xml</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

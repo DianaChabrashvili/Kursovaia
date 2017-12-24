@@ -1,0 +1,8 @@
+C:\4сем\Зорин\курсовая\kurs1\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\4сем\Зорин\курсовая\kurs1\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\4сем\Зорин\курсовая\kurs1\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\4сем\Зорин\курсовая\kurs1\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\4сем\Зорин\курсовая\kurs1\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\4сем\Зорин\курсовая\kurs1\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\4сем\Зорин\курсовая\kurs1\BusinessLogic\bin\Debug\Contracts.dll
+C:\4сем\Зорин\курсовая\kurs1\BusinessLogic\bin\Debug\Contracts.pdb

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Items>
+  <Item id="1" name="Древний Краб" />
+  <Item id="2" name="Дрейк-Рыболов" />
+  <Item id="3" name="Как Предсказано" />
+  <Item id="4" name="Авен-Послушник" />
+  <Item id="5" name="Отмена" />
+  <Item id="6" name="Картуш Знаний" />
+  <Item id="7" name="Цензура" />
+  <Item id="8" name="Неотразимый Довод" />
+</Items>
