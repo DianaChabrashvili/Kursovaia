@@ -13,5 +13,6 @@ namespace kurs1
     /// </summary>
     public partial class App : Application
     {
+        //REVIEW: Глобальный обработчик ошибок?
     }
 }

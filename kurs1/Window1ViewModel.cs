@@ -23,6 +23,7 @@ namespace kurs1
                 throw new ArgumentNullException("Data connection not found ");
             }
 
+            //REVIEW: NRE?
             Environment.CurrentDirectory = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location);
             Config cfg = new Config();
             cfg.DataPath = Path.GetFullPath(kurs1.Properties.Settings.Default.DataConnection);

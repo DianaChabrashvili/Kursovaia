@@ -25,6 +25,7 @@ namespace XMLReader
                 Dictionary<int, string> values = new Dictionary<int, string>();
                 foreach (var element in doc.Root.Elements())
                 {
+                    //REVIEW: Не сравниваем строки через ==!
                     values.Add(Int32.Parse(element.Attributes().FirstOrDefault(x=>x.Name=="id").Value),
                         element.Attributes().FirstOrDefault(x => x.Name == "name").Value);
                 }
